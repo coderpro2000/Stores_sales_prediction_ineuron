@@ -19,7 +19,7 @@ Push to Github
 deploying
 
 # WebPage Design
-![](Images/Screenshot 2021-09-11 142007.png)
+![](https://github.com/coderpro2000/Stores_sales_prediction_ineuron/blob/main/Images/Screenshot%202021-09-11%20142007.png)
 
 
 # How to run in Your local System
