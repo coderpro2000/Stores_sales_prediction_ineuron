@@ -6,6 +6,8 @@ Nowadays, shopping malls and Big Marts keep track of individual item sales data 
 # Dataset Description
 BigMart has collected sales data for 1559 products across 10 stores in different cities. Where the dataset consists of 12 attributes like Item Fat, Item Type, Item MRP, Outlet Type, Item Visibility, Item Weight, Outlet Identifier, Outlet Size, Outlet Establishment Year, Outlet Location Type, Item Identifier and Item Outlet Sales. Out of these attributes target variable is the Item Outlet Sales attribute and remaining attributes are refer as independent variables. The data-set is also based on hypotheses of store level and product level. Where store level involves attributes like: city, population density, store capacity, location, etc and the product level hypotheses involves attributes like: brand, advertisement, promotional offer, etc.
 
+![](https://github.com/coderpro2000/Stores_sales_prediction_ineuron/blob/main/Images/Screenshot%202021-09-11%20165327.png)
+
 # Steps to involved in model building
 Data Loading
 Data transformation
