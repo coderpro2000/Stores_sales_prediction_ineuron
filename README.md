@@ -8,17 +8,21 @@ BigMart has collected sales data for 1559 products across 10 stores in different
 
 ![](https://github.com/coderpro2000/Stores_sales_prediction_ineuron/blob/main/Images/Screenshot%202021-09-11%20165327.png)
 
+# Graph Analysis
+
+![](https://github.com/coderpro2000/Stores_sales_prediction_ineuron/blob/main/Images/Screenshot%202021-09-12%20202923.png)
+
 # Steps to involved in model building
-Data Loading
-Data transformation
-Data transformation
-New feature Generation
-Feature Engineering
-Model Building
-Evaluting Model
-FastAPI and Flask setup
-Push to Github
-deploying
+#### Data Loading
+#### Data transformation
+#### Data transformation
+#### New feature Generation
+#### Feature Engineering
+#### Model Building
+#### Evaluting Model
+#### FastAPI and Flask setup
+#### Push to Github
+#### deploying
 
 # WebPage Design
 ![](https://github.com/coderpro2000/Stores_sales_prediction_ineuron/blob/main/Images/Screenshot%202021-09-11%20142007.png)
