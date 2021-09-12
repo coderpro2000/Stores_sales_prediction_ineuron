@@ -19,11 +19,11 @@ Push to Github
 deploying
 
 # WebPage Design
-
+![](images/Screenshot 2021-09-11 142007.png)
 
 
 # How to run in Your local System
-Intial requirements:Python
-Download the code as zip and unzip
-run the command in command prompt pip install requirements.txt
-after completion run the command python main.py
+#### 1.Intial requirements:Python
+#### 2.Download the code as zip and unzip
+#### 3.run the command in command prompt pip install requirements.txt
+#### 4.after completion run the command python main.py
