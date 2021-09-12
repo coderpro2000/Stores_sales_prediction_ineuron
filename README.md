@@ -19,7 +19,7 @@ Push to Github
 deploying
 
 # WebPage Design
-![](images/Screenshot 2021-09-11 142007.png)
+![](Images/Screenshot 2021-09-11 142007.png)
 
 
 # How to run in Your local System
