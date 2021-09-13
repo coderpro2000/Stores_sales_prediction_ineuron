@@ -12,6 +12,8 @@ BigMart has collected sales data for 1559 products across 10 stores in different
 
 ![](https://github.com/coderpro2000/Stores_sales_prediction_ineuron/blob/main/Images/Screenshot%202021-09-12%20202923.png)
 
+![](https://github.com/coderpro2000/Stores_sales_prediction_ineuron/blob/main/Images/Screenshot%202021-09-13%20193319.png)
+
 # Steps to involved in model building
 #### Data Loading
 #### Data transformation
