@@ -37,7 +37,7 @@ def result():
 
     # Label Encoding
 
-    le = joblib.load(r'C:\Users\SOMAY\OneDrive\Desktop\Sales Prediction\Models\le.sav')
+    le = joblib.load('le.sav')
 
     item_fat_content = le.fit_transform([item_fat_content])
     item_type = le.fit_transform([item_type])
@@ -56,7 +56,7 @@ def result():
 
     # Lets apply Standard Scaler
 
-    sc = joblib.load(r'C:\Users\SOMAY\OneDrive\Desktop\Sales Prediction\Models\sc.sav')
+    sc = joblib.load('sc.sav')
     inputs_std = sc.transform(inputs)
 
     # Lets apply prediction
