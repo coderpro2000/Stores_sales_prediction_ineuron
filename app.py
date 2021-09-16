@@ -61,7 +61,7 @@ def result():
 
     # Lets apply prediction
 
-    model=joblib.load(r'C:\Users\SOMAY\OneDrive\Desktop\Sales Prediction\Models\random_forest_grid.sav')
+    model=joblib.load('random_forest_grid.sav')
 
     prediction = model.predict(inputs_std)
     prediction = prediction.tolist()
