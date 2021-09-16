@@ -38,7 +38,7 @@ def result():
 
     # Label Encoding
 
-    le = joblib.load(r'C:\Users\SOMAY\OneDrive\Desktop\Sales Prediction\Models\le.sav')
+    le = joblib.load('https://github.com/coderpro2000/Stores_sales_prediction_ineuron/blob/main/Model/le.sav')
 
     item_fat_content = le.fit_transform([item_fat_content])
     item_type = le.fit_transform([item_type])
