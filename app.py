@@ -1,6 +1,7 @@
 import numpy as np
 from flask import Flask, render_template, request, jsonify
 import joblib
+import os
 
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
@@ -37,7 +38,7 @@ def result():
 
     # Label Encoding
 
-    le = joblib.load('le.sav')
+    le = joblib.load(r'C:\Users\SOMAY\OneDrive\Desktop\Sales Prediction\Models\le.sav')
 
     item_fat_content = le.fit_transform([item_fat_content])
     item_type = le.fit_transform([item_type])
