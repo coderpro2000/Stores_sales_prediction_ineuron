@@ -5,6 +5,7 @@ import os
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
 le = LabelEncoder()
+import pickle
 
 
 sc = StandardScaler()
@@ -61,7 +62,7 @@ def result():
 
     # Lets apply prediction
 
-    model=joblib.load('random_forest_grid.sav')
+    model=joblib.load('grid_search_forest.pkl')
 
     prediction = model.predict(inputs_std)
     prediction = prediction.tolist()
